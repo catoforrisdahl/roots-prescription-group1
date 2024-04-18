@@ -1,3 +1,4 @@
+# Pirka borti
 # Roots Apotek - eResept
 
 Velkommen til dag to av kurset. I dag tar dere rollen som utviklere! Først, la oss gå gjennom hva som har skjedd.
